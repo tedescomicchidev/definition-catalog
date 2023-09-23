@@ -5,7 +5,7 @@
  setupTasks:
    - task: winget
      inputs:
-       package: Microsoft.VisualStudioCode
+       install: Microsoft.VisualStudioCode
    - task: winget
      inputs:
        package: OpenJS.NodeJS.LTS
