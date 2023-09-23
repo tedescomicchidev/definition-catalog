@@ -9,3 +9,6 @@
    - task: winget
      inputs:
        package: OpenJS.NodeJS.LTS
+   - task: winget
+     inputs:
+       package: Microsoft.PowerToys
